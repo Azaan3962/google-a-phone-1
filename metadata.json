@@ -1,0 +1,6 @@
+{
+  "name": "GoLogin & APK Hub",
+  "description": "Run official GoLogin software independently per phone and install, manage, inspect, and run APK packages seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
